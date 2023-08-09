@@ -1,0 +1,11 @@
+html{
+    font-size: 1rem;
+}
+.inputs{
+    display: flex;
+}
+#validation-message{
+    font-size: 0.9rem;
+    color: red;
+}
+
